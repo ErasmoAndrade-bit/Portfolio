@@ -67,7 +67,6 @@ dashboard-excel/
 │
 ├── dashboardboard.xlsx
 ├── dataset-saleschocolate.csv
-├── img
 │   └── dashboard-excel.png
 └── README.md
 ```
